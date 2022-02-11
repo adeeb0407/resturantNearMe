@@ -11,7 +11,7 @@ PORT  = {which ever port you wish for the app to run in}
 
 2)Database JSON data will be avaliable in the `databseJSON.txt` file nad you will have to use Robo.3t to or any framework to insert them into your collection
 
-3) Take this data 
+3) Take this data as Body
 
 {
     "latitude": 18.645368,
@@ -19,4 +19,4 @@ PORT  = {which ever port you wish for the app to run in}
     "raduis" : 500
 }
 
-and run it  add the url http://localhost:{your Port mentioned in .env file}/nearme
+and run it on postman with a post request add the url http://localhost:{your Port mentioned in .env file}/nearme
