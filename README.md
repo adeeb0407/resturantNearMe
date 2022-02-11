@@ -11,7 +11,7 @@ PORT  = {which ever port you wish for the app to run in}
 
 2)Database JSON data will be avaliable in the `databseJSON.txt` file nad you will have to use Robo.3t to or any framework to insert them into your collection
 
-3) `db.getCollection('restaurants').createIndex({ location: "2dsphere" })` run this command in your NOSQL Framework to get the sphere topology 
+3) `db.getCollection('restaurants').createIndex({ location: "2dsphere" })` run this query in your NOSQL Framework to get the sphere topology 
 
 5) now just rtpe `npm start` in terminal and your good to GOO!!!
 
