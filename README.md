@@ -1,4 +1,4 @@
-# resturantNearMe
+# restaurantsNearMe
 
 ## This is a NodeJS Application where as in you will find resturants Near you as far as you mention it.
 
